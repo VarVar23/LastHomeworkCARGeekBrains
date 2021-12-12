@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1924792681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64503c394bc7cff224e741335d60e5bf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BubbleCave/Sounds/Effects/alert.ogg
+- Assets/BubbleCave/Sounds/Effects/blackHole.ogg
+Dependencies: []
